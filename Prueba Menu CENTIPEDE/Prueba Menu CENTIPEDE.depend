@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1592182674 source:c:\users\lanix\desktop\centipede\prueba menu centipede\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<list>
+	"Nave.h"
+	"Bala.h"
+	"Hongos.h"
+	"Asteroid.h"
+
+1592181925 c:\users\lanix\desktop\centipede\prueba menu centipede\include\nave.h
+
+1591908672 c:\users\lanix\desktop\centipede\prueba menu centipede\include\bala.h
+
+1591745924 c:\users\lanix\desktop\centipede\prueba menu centipede\include\hongos.h
+
+1591748877 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\bala.cpp
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	"Bala.h"
+
+1592069735 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\hongos.cpp
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<dos.h>
+	"Bala.h"
+	"Nave.h"
+	"Hongos.h"
+
+1592181980 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\nave.cpp
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	"Nave.h"
+
+1592094568 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\ciempies.cpp
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	"Ciempies.h"
+
+1591730757 c:\users\lanix\desktop\centipede\prueba menu centipede\include\ciempies.h
+
+1592092318 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\asteroid.cpp
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"Asteroid.h"
+
+1592087984 c:\users\lanix\desktop\centipede\prueba menu centipede\include\asteroid.h
+	"Nave.h"
+
+1592095386 source:c:\users\lanix\desktop\centipede\prueba menu centipede\src\camaleon.cpp
+	<cstdlib>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"Camaleon.h"
+
+1592095021 c:\users\lanix\desktop\centipede\prueba menu centipede\include\camaleon.h
+
